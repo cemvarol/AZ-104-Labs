@@ -83,11 +83,11 @@ The main tasks for this exercise are as follows:
 
 1. In the Azure portal, Create a **New Route Table** with the following settings:
 
-    - Name: **304NwLab-rt1**
+    - Name: **NwLab-rt1**
 
     - Subscription: the name of the Azure subscription you use for this lab
 
-    - Resource group: **304NwLab-RG01**
+    - Resource group: **NwLab-RG01**
 
     - Location: the same Azure region in which you created the virtual networks
   
@@ -95,7 +95,7 @@ The main tasks for this exercise are as follows:
     
     Once the creation of the route table has finished, click on **Go to resource**
 
-2. In the Azure portal, on the route table 304NwLab-rt1 that was created on the previous step, click on **Routes** under **Settings** and add a route with the following settings: 
+2. In the Azure portal, on the route table NwLab-rt1 that was created on the previous step, click on **Routes** under **Settings** and add a route with the following settings: 
 
     - Route name: **Custom-route-to-VNet02-Subnet01**
 
@@ -220,7 +220,7 @@ The main tasks for this exercise are as follows:
 
     - Leave the **Subscription** drop-down list entry set to its default value.
 
-    - In the **Resource group** drop-down list, select the **304NwLab-RG01** entry.
+    - In the **Resource group** drop-down list, select the **NwLab-RG01** entry.
 
     - In the **Virtual machine** drop-down list, choose **VM-A**.
     
