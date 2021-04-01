@@ -24,3 +24,16 @@
 
 
 [Additional Lab: Configure Vnet Peering and Service Chaining](https://github.com/cemvarol/AZ-104-Labs/blob/main/NWLab/NWLab.md)
+
+[Additional Lab: Managed Identities w Windows](https://github.com/cemvarol/AZ-104-Labs/blob/main/IDsLab/IDsLab.md)
+
+[Additional Lab: Managed Identities w Linux](https://github.com/cemvarol/ResourceCreate/tree/main/Ids-Lab-Linux)
+
+[Additional Lab: S2S & P2S VPN](https://github.com/cemvarol/AZ-104-Labs/blob/main/S2S-VPN/Instructions.md)
+
+[Additional Lab: FacebookAuthentication](https://github.com/cemvarol/AZ-104-Labs/blob/main/AuthenticateWith/AuthenticatewFB.pdf)
+
+[Additional Lab: Containers](https://github.com/cemvarol/AZ-104-Labs/blob/main/ContainersLab/ContainersNew.pdf)
+
+
+
