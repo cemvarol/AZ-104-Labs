@@ -1,4 +1,4 @@
-#### Task 3: Check the output
+#### AZ-104-Course Labs
 
       
 | Order | Module name | Lab URL | Lab Time |
@@ -23,8 +23,7 @@
 
  
  
-2.  Copy the **DNS Name** and visit that URL on a new tab on your browser
-3.  Ensure that the page welcomes you with the current date
+
 
 
 
