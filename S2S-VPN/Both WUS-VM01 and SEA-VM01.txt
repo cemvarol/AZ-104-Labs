@@ -1,0 +1,33 @@
+A=$(az ad signed-in-user show --query userPrincipalName)
+B=${A:$(echo `expr index "$A" @`)}
+C=${B:: -24}
+D=$(echo "$C"str01)
+E=$(echo "$C"str02)
+F=$(echo "$C"wus)
+G=$(echo "$C"sea)
+
+az storage account create --name $F --resource-group WUS-Assets --kind Storage --location WestUs --sku Standard_LRS
+
+
+export SUBNETID1=$(az network vnet subnet show --resource-group WUS-Assets --vnet-name WUS-VNet01A --name WUS-VNet01A-SN01 --query id -o tsv)
+
+az vm create --resource-group WUS-Assets --name WUS-VM01 --location WestUs --image Win2019Datacenter --admin-username cem --admin-password 1q2w3e4r5t6y* --size standard_D4s_v3 --public-ip-address "WUS-VM01-Pip01" --subnet $SUBNETID1 --boot-diagnostics-storage $F --license-type Windows_Server --nsg-rule RDP --no-wait
+
+
+
+az storage account create --name $G --resource-group SEA-Assets --kind Storage --location SoutheastAsia --sku Standard_LRS
+
+export SUBNETID2=$(az network vnet subnet show --resource-group SEA-Assets --vnet-name SEA-VNet01A --name SEA-VNet01A-SN01 --query id -o tsv)
+
+az vm create --resource-group SEA-Assets --name SEA-VM01 --location SoutheastAsia --image Win2019Datacenter --admin-username cem --admin-password 1q2w3e4r5t6y* --size standard_D4s_v3 --public-ip-address "SEA-VM01-Pip01" --subnet $SUBNETID2 --boot-diagnostics-storage $G --license-type Windows_Server --nsg-rule RDP
+
+
+
+
+
+
+
+
+
+
+
