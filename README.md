@@ -1,5 +1,6 @@
 #### AZ-104-Course Labs
 
+[Lab Recordings and Demos](https://github.com/MicrosoftLearning/Lab-Demo-Recordings/blob/master/AZ-104.md?fbclid=IwAR15-m2pNmIY30vqga5rC3FtVd4bqYmsH9YiY2Zbnu36OZPgdr9rz-VezGA)
       
 | Order | Module name | Lab URL | Lab Time |
 | --- | ----------- |--- | ---- |
@@ -23,8 +24,6 @@
 
 #### AZ-104-Additional Labs
 
-
- 
 
 [Additional Lab: Configure Vnet Peering and Service Chaining](https://github.com/cemvarol/AZ-104-Labs/blob/main/NWLab/NWLab.md)
 
