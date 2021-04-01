@@ -4,7 +4,7 @@
  
       
 | Order | Module name | Lab URL | Lab Time |
-| - | - |- | - |
+| ---------- | ------------ |------------ | ------------ |
 | 1 | M 03 - Azure Administration | [03a - Manage Azure resources by using the Azure Portal](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.html) | 20 mins|
   |1 |M 03 - Azure Administration|	[03b - Manage Azure resources by Using ARM Templates](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.html) | 20 Mins|  
  |1 |M 03 - Azure Administration|	[03c - Manage Azure resources by Using Azure PowerShell    (OPTIONAL)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03c-Manage_Azure_Resources_by_Using_Azure_PowerShell.html) | 20 Mins|
