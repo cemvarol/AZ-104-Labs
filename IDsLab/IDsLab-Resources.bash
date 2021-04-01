@@ -23,3 +23,6 @@ export SUBNETN=$(az network vnet subnet show --resource-group IDLab1 --vnet-name
 az network vnet subnet update -g IDLab1 --vnet-name IDVnet01 --name $SUBNETN --network-security-group IDsNSG
 
 az vm create --resource-group IDLab1 --name IDs-VM01 --location $L --image MicrosoftWindowsServer:WindowsServer:2019-Datacenter-Core:latest --admin-username cem --admin-password 1q2w3e4r5t6y* --size standard_D4s_v3 --public-ip-address "IDs-VM01-Pip" --subnet $SUBNETID --boot-diagnostics-storage $D --license-type Windows_Server --nsg "" --no-wait
+
+
+#
