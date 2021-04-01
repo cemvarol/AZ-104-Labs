@@ -20,3 +20,7 @@
 |10|M 10 - Data Protection|	[10 - Implement Data Protection](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_10-Implement_Data_Protection.html) | 50 Mins|
 |11|M 11 - Monitoring|	[11 - Implement Monitoring](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_11-Implement_Monitoring.html) | 45 Mins|
 
+#### AZ-104-Additional Labs
+
+
+[Additional Lab: Configure Vnet Peering and Service Chaining](https://github.com/cemvarol/AZ-104-Labs/blob/main/NWLab/NWLab.md)
