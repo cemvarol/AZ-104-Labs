@@ -20,7 +20,7 @@ Password: **1q2w3e4r5t6y***
 
 
 ```sh
-curl -O https://raw.githubusercontent.com/cemvarol/AZ-304-Labs/master/NwLab/NwLab-Resources.bash
+curl -O https://raw.githubusercontent.com/cemvarol/AZ-104-Labs/main/NWLab/NwLab-Resources.bash
 ls -la NwLab-Resources.bash
 chmod +x NwLab-Resources.bash
 ./NwLab-Resources.bash
