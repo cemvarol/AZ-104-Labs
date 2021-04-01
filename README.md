@@ -34,7 +34,7 @@
 
 [Additional Lab: S2S & P2S VPN](https://github.com/cemvarol/AZ-104-Labs/blob/main/S2S-VPN/Instructions.md)
 
-[FacebookAuthentication](https://github.com/cemvarol/AZ-104-Labs/blob/main/AuthenticateWith/AuthenticatewFB.pdf)
+[Additional Lab: FacebookAuthentication](https://github.com/cemvarol/AZ-104-Labs/blob/main/AuthenticateWith/AuthenticatewFB.pdf)
 
 
 
