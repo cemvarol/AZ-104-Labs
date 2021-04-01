@@ -1,6 +1,4 @@
-#### AZ-104-Course Labs
 
-[Lab Recordings and Demos](https://github.com/MicrosoftLearning/Lab-Demo-Recordings/blob/master/AZ-104.md?fbclid=IwAR15-m2pNmIY30vqga5rC3FtVd4bqYmsH9YiY2Zbnu36OZPgdr9rz-VezGA)
       
 | Order | Module name | Lab URL | Lab Time |
 | --- | ----------- |--- | ---- |
@@ -21,21 +19,4 @@
 |9|M 09 - Serverless Computing|	[09c - Implement Azure Kubernetes Service        (OPTIONAL)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09c-Implement_Azure_Kubernetes_Service.html) | 40 Mins|
 |10|M 10 - Data Protection|	[10 - Implement Data Protection](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_10-Implement_Data_Protection.html) | 50 Mins|
 |11|M 11 - Monitoring|	[11 - Implement Monitoring](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_11-Implement_Monitoring.html) | 45 Mins|
-
-#### AZ-104-Additional Labs
-
-
-[Additional Lab: Configure Vnet Peering and Service Chaining](https://github.com/cemvarol/AZ-104-Labs/blob/main/NWLab/NWLab.md)
-
-[Additional Lab: Managed Identities w Windows](https://github.com/cemvarol/AZ-104-Labs/blob/main/IDsLab/IDsLab.md)
-
-[Additional Lab: Managed Identities w Linux](https://github.com/cemvarol/ResourceCreate/tree/main/Ids-Lab-Linux)
-
-[Additional Lab: S2S & P2S VPN](https://github.com/cemvarol/AZ-104-Labs/blob/main/S2S-VPN/Instructions.md)
-
-[Additional Lab: FacebookAuthentication](https://github.com/cemvarol/AZ-104-Labs/blob/main/AuthenticateWith/AuthenticatewFB.pdf)
-
-[Additional Lab: Containers](https://github.com/cemvarol/AZ-104-Labs/blob/main/ContainersLab/ContainersNew.pdf)
-
-
 
