@@ -36,8 +36,7 @@
 
 [Additional Lab: FacebookAuthentication](https://github.com/cemvarol/AZ-104-Labs/blob/main/AuthenticateWith/AuthenticatewFB.pdf)
 
-
-[Additional Lab: FacebookAuthentication](https://github.com/cemvarol/AZ-104-Labs/blob/main/ContainersLab/ContainersNew.pdf)
+[Containers Lab](https://github.com/cemvarol/AZ-104-Labs/blob/main/ContainersLab/ContainersNew.pdf)
 
 
 
